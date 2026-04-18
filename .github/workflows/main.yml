@@ -129,7 +129,7 @@ jobs:
         run: |
           pip install gdown
           gdown 1-je9I-ntHFm_kFqdmfuIqA6Yt2Jb-RJZ -O open_youtube_with_session.zip
-          gdown 1dMGbOUx89sqPVoOw_236nWgnh5A1i8Ho -O open_google_with_session.zip
+          gdown 1akuJYnfIaVOTigEwySS4lPV-XONvTBji -O open_google_with_session.zip
 
       - name: Extract Project Files
         shell: pwsh
